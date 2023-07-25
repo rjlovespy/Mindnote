@@ -1,5 +1,5 @@
 # Mindnote
-An application software named Mindnote [Version 0.1] is an advanced version of notepad. Developed using Tkinter, it provides some unique functionalities like word count while typing which no other pre-existing notepads provide.
+Mindnote [Version 0.1] is an application software. It is an advanced version of notepad. Developed using Tkinter, it provides some unique functionalities like word count while typing which no other pre-existing notepads provide.
 
 To run this application software in your system:
 1. Download .py, .exe, .txt, and .png files.
