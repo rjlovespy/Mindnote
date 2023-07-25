@@ -1,5 +1,5 @@
 # Mindnote
-An application software that is an advanced version of notepad. It provides some unique functionalities like word count while typing which no other pre-existing notepads provide.
+An application software developed using Tkinter is an advanced version of notepad. It provides some unique functionalities like word count while typing which no other pre-existing notepads provide.
 
 To run this application software in your system:
 1. Download .py, .exe, .txt, and .png files.
