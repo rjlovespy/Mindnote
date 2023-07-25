@@ -1,0 +1,10 @@
+Mindnote [Version 0.1]- An application soft-
+ware developed by Mr. Rishikesh Jha who is
+currently a Physics graduate from the Univ-
+ersity of Mumbai. This is the second applic-
+ation software of the developer and the one
+which he believes will be preferred over any 
+other pre-existing notepads as it provides 
+some unique functionalities like word count 
+which no other notepads provide.
+

@@ -1,0 +1,23 @@
+1. To create a new file, either press Ctrl + n
+or click New inside the File menu.
+2. To open an existing file, either press Ctrl
++ o or click Open inside the File menu.
+3. To save a file, either press Ctrl + s or click
+Save inside the File menu.
+4. To cut a text, either press Ctrl + x or click
+Cut inside the Edit menu.
+5. To copy a text, either press Ctrl + c or 
+click Copy inside the Edit menu.
+6. To paste a text, either press Ctrl + v or 
+click Paste inside the Edit menu.
+7. To select a font family for the entire text, 
+visit Font Family inside the Setting menu.
+8. To select a font size for the entire text, 
+visit Font Size inside the Setting menu.
+9. To select a font style for the entire text, 
+visit Font Style inside the Setting menu.
+10. One can see the description of selected 
+font and the word count in the taskbar.
+
+
+
