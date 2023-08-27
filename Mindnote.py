@@ -175,11 +175,9 @@ def ExitWindow():
     root.destroy()
     
     
-def WordCount(event):
-    """ 
-    shlex.split(string) returns a list of words present in a string where string can be punctuation marks or special characters. 
-    string.split() also does the same but the string cannot be punctuation marks or special characters.
-    """
+def WordCount(event): 
+    # shlex.split(string) returns a list of words present in a string where string can be punctuation marks or special characters. 
+    # string.split() also does the same but the string cannot be punctuation marks or special characters.
     wordCount["text"] = f"Number of words: {len(shlex.split(textArea.get(1.0, END)))}"
         
           
